@@ -1,0 +1,9 @@
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\bin\Debug\Lab5_Seavus.exe.config
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\bin\Debug\Lab5_Seavus.exe
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\bin\Debug\Lab5_Seavus.pdb
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.csprojResolveAssemblyReference.cache
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.Form1.resources
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.Properties.Resources.resources
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.csproj.GenerateResource.Cache
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.exe
+C:\Training\CSharpProgrammingBasics\Labs\Lab01\Lab5_Seavus\Lab5_Seavus\obj\Debug\Lab5_Seavus.pdb
